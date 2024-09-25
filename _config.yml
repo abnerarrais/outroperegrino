@@ -31,6 +31,7 @@ github_username:  abnerarrais
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-analytics
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -59,3 +60,8 @@ disqus:
     shortname: outro-peregrino
 
 url: "https://abnerarrais.github.io/outroperegrino/"
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-D42DH46JTT          # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
