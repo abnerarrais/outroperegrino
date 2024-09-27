@@ -3,7 +3,7 @@ layout: post
 title: "Orwell e a via trágica da verdade na política: um comentário sobre a relação entre memória e o axioma da liberdade em 1984"
 ---
 
-*Com exceção de pequenas correções, o presente texto é uma pequena adaptação de uma dissertação de nível de graduação na matéria de Ética e Filosofia Política III. Tivesse de escrever hoje, a redação seria drasticamente diferente em muitos trechos. A ideia geral, porém, se mantem, e espero que os comentários gerais sejam úteis para outros leitores de Orwell, especialmente os interessados.*
+*Com exceção de pequenas correções, o presente texto é uma pequena adaptação de uma dissertação de nível de graduação na matéria de Ética e Filosofia Política III. Tivesse de escrever hoje, a redação seria drasticamente diferente em muitos trechos. A ideia geral, porém, se mantem, e espero que os comentários gerais sejam úteis para outros leitores de Orwell.*
 
 # **Orwell e a via trágica da verdade na política: um comentário sobre a relação entre memória e o axioma da liberdade em *1984***
 
