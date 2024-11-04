@@ -65,3 +65,6 @@ jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics
     id: G-D42DH46JTT          # Required - replace with your tracking id
     anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
+algolia:
+  application_id: 'HL6FQIDASB'
