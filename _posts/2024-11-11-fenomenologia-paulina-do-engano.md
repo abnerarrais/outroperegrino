@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fenomenologia paulina do engano"
+comments: false
 ---
 
 Quando Paulo exorta os gálatas contra o falso evangelho que eles tomam por verdadeiro (Gl 3.1), ele os chama de "insensatos" ("ἀνόητοι"), repetindo a acusação que Jesus faz aos discípulos no caminho de Emaús (Lc 24.25) por serem "tardos de coração" ("βραδεῖς τῇ καρδίᾳ"). Assim como aqueles discípulos diante do Cristo ressurreto, eles conheciam a verdade, mas sua visão estava turva. De fato, parece que há um feitiço posto sobre seus olhos ("βασκαίνω"), um encanto que nos faz tomar um objeto pelo outro, um falso evangelho ("ἕτερον εὐαγγέλιον", 1.6) como se fosse o verdadeiro ("εὐαγγέλιον τοῦ χριστοῦ", 1.7). Seus olhos estão sob um feitiço poderoso, a imagem do Cristo crucificado, inicialmente construída pela pregação, foi sequestrada por uma anti-pregação, tornando-a uma anti-imagem, posto que somente a imagem da Lei surge como real imagem pela qual se pode viver.
