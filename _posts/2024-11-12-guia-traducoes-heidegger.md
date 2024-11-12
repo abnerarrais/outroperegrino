@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guia das traduções de Heidegger em língua portuguesa"
+title: "Guia das traduções de Heidegger (Gesamtausgabe) em língua portuguesa"
 ---
 
 Lista em permanente atualização
