@@ -5,12 +5,12 @@ title: "Guia das traduções de Heidegger (Gesamtausgabe) em língua portuguesa"
 
 As _Gesamtausgabe_ estão dividida entre quatro séries:
 
-I. Escritos publicados
-II. Preleções acadêmicas
-III. Material não publicado, preleções e anotações
-IV. Anotações e registros
+- I. Escritos publicados.
+- II. Preleções acadêmicas.
+- III. Material não publicado, preleções e anotações.
+- IV. Anotações e registros.
 
-_ista em permanente atualização._
+_Lista em permanente atualização._
 
 | Série | GA  | Ano de publicação da GA | Data dos escritos | Título                                    | Edição em português                                                    | Tradutores                                                                                                                   |
 | ----- | --- | ----------------------- | ----------------- | ----------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
