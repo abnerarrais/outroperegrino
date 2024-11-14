@@ -32,4 +32,4 @@ _Lista em permanente atualização._
 |II|60|1995|1918-1921|_Phänomenologie des religiösen Lebens_|_Fenomenologia da vida religiosa_ (Vozes)|Enio Paulo Giachini, Jairo Ferrandin, Renato Kirchner|
 | II    | 63  | 1988                    | 1923              | _Ontologie. Hermeneutik der Faktizität_   | _Ontologia: hermenêutica da faticidade_ (Vozes)                        | Renato Kirchner                                                                                                              |
 | III   | 65  | 1989                    | 1936-1938         | _Beiträge zur Philosophie (Vom Ereignis)_ | _Contribuições à filosofia: do acontecimento apropriador_ (Via Verita) | Marco Antonio Casanova                                                                                                       |
-|III|67|1999|1938-1948|_Metaphysik und Nihilismus_|_Nietzsche: metafísica e niilismo_ (Relume Dumará)_|Marco Antonio Casanova|
+|III|67|1999|1938-1948|_Metaphysik und Nihilismus_|_Nietzsche: metafísica e niilismo_ (Relume Dumará)|Marco Antonio Casanova|
