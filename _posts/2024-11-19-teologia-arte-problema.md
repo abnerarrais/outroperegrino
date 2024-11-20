@@ -3,7 +3,7 @@ layout: post
 title: "Teologia (evangélica) e arte: nota para a formulação de um problema"
 ---
 
-O problema se constitui como problema para a teologia evangélica, que parece se aproximar teoricamente do campo da arte sempre em caráter de justificativa.
+O problema se constitui como problema especialmente para a teologia evangélica, que parece se aproximar teoricamente do campo da arte sempre em caráter de justificativa.
 
 Em certo sentido, não poderia ser diferente. Ao criticar a posição de Leland Ryken quanto à importância da imaginação, Clark privilegia o conteúdo "mental" e reduzível a uma proposição que a obra de arte pode ter. Isso fica especialmente evidente pois, em sua consideração, ele opta por privilegiar o papel da crítica, e não do artista ou do filósofo da arte, no conteúdo intelectual que a arte vincula:
 
