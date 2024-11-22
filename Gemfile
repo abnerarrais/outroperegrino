@@ -35,3 +35,5 @@ group :jekyll_plugins do
 end
 
 gem "algoliasearch-rails"
+
+gem "jekyll-seo-tag"
