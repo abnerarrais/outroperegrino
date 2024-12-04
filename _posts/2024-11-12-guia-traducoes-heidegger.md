@@ -28,6 +28,7 @@ _Lista em permanente atualização._
 |II|29/30|1983|1929-1930|_Die Grundbegriffe der Metaphysik. Welt – Endlichkeit – Einsamkeit_|_Os conceitos fundamentais da metafísica: mundo - finitude - solidão_ (Forense Universitária)|Marco Antonio Casanova|
 |II|33|1981|1931|_Aristoteles, Metaphysik Θ, 1–3. Von Wesen und Wirklichkeit der Kraft_|_Metafísica de Aristóteles Θ 1-3: sobre a essência e a realidade da força_ (Vozes)|Enio Paulo Giachini|
 |II|39|1980|1934/1935|_Hölderlins Hymnen "Germanien" und "Der Rhein"_|_Hinos de Hölderlin_ (Instituto Piaget)|Lumir Nahodil|
+|II|40|1983|1935|_Einführung in die Metaphysik_|_Introdução à metafísica_ (Tempo Brasileiro)|Emmanuel Carneiro Leão|
 |II|41|1984|1935/1936|_Die Frage nach dem Ding. Zu Kants Lehre von den transzendentalen Grundsätzen_|_Que é uma coisa?_ (Edições 70)|Carlos Morujão|
 |II|54|1982|1942/1943|_Parmenides_|_Parmênides_ (Vozes)|Sérgio Mário Wrublevski|
 |II|60|1995|1918-1921|_Phänomenologie des religiösen Lebens_|_Fenomenologia da vida religiosa_ (Vozes)|Enio Paulo Giachini, Jairo Ferrandin, Renato Kirchner|
