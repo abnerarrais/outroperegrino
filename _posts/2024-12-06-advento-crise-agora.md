@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'Até quando, Senhor?' – Advento e a crise do agora"
+title: "“Até quando, Senhor?” – Advento e a crise do agora"
 ---
 
 Participar do Advento é se dar conta de que às vezes nossa espera se dá a nós com seu prazo de realização, às vezes não — e que as coisas mais importantes pelas quais esperamos parecem ser do último tipo. O Advento nos encontra com a espera que para nós parece sem prazo, o tipo de espera que define o sentido de todo o restante do tempo. “Até quando, Senhor?” é o tema de vários salmos a respeito da espera pela intervenção divina em meio ao caos, o clamor do povo de Deus aguardando a vinda do Messias, como também é o clamor do povo da nova criação hoje aguardando a segunda vinda de Cristo. Essa espera nos encontra tanto na impaciência de nossa finitude quanto na impaciência típica de nossa época, à espera sempre da próxima "grande coisa", da próxima "hard news", de algo que nos dê a sensação de que estamos nos movendo para algum lugar.
