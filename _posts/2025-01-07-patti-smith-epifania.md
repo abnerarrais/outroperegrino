@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "Patti Smith e o brilho epifânico da verdade"
 ---
 Os Magos seguiram uma estrela, uma ruptura na escuridão do cosmos, até a fonte de toda luz. Patti Smith é um tipo de mago diferente: em "We Three Kings" ela se coloca entre os magos com uma austeridade que desfaz os ornamentos típicos e nos devolve à essência: a busca pelo que é verdadeiro. Nesse clássico reinterpretado, o estranhamento serve de terreno onde a música se dá como um evento — como ela mesma comentou recentemente em seu Substack —, uma manifestação, um aparecer, uma epifania. A descrição que ela faz da Epifania é interessante porque, se a arte é um desvelar, uma abertura do ser em meio à banalidade do cotidiano, é porque a epifania que ela mesma diz encontrar na pintura de Rubens só se dá pela Epifania que torna reencantada todas as coisas debaixo do senhorio do bebê cujo balbuciar sustenta todo o universo (para lembrar do hino luterano). Assim, os Magos ofereceram seus presentes e Patti transforma sua canção em uma oferta, iluminando o gesto artístico como resposta à irrupção do eterno no ordinário.
