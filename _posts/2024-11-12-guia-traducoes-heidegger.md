@@ -77,7 +77,7 @@ _Lista em permanente atualização._
 | II | 63 | 1988 | 1923 | *Ontologie. Hermeneutik der Faktizität* | *Ontologia: hermenêutica da faticidade* (Vozes) | Renato Kirchner |
 | III | 64 | 2004 | 1924 | *Der Begriff der Zeit* | | |
 | III | 65 | 1989 | 1936-1938 | *Beiträge zur Philosophie (Vom Ereignis)* | *Contribuições à filosofia: do acontecimento apropriador* (Via Verita) | Marco Antonio Casanova |
-| III | 66 | 1997 | 1938/1939 | *Besinnung* | | |
+| III | 66 | 1997 | 1938/1939 | *Besinnung* |*Meditação* (Vozes)|Marco Antonio Casanova|
 | III | 67 | 1999 | 1938-1948 | *Metaphysik und Nihilismus* | *Nietzsche: metafísica e niilismo* (Relume Dumará) | Marco Antonio Casanova |
 | III | 68 | 1993 | 1938-1942 | *Hegel* | | |
 | III | 69 | 1998 | 1938/1940 | *Die Geschichte des Seyns* | | |
