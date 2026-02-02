@@ -1,0 +1,7 @@
+---
+layout: post
+title: De mestres de masmorras e pastores-mestres
+---
+
+
+O principal insight de *The Lazy Dungeon Master*, de Michael Shea, é simples: não se mestra uma boa aventura para jogadores imaginários de um livro de referências, mas para aqueles que estão ali, diante de você. *Lazy*, aliás, pode enganar quanto ao que o autor realmente tem em mente: não descuido, mas um preparo conscientemente orientado a servir os interesses reais de um grupo real. Algo muito semelhante acontece na pregação. Embora a interpretação do texto bíblico deva ser rigorosamente *Scripture-driven*, a entrega da mensagem nunca é neutra ou abstrata; ela é inevitavelmente *people-driven* — ou, mais precisamente, deve ser *church-driven*, isto é, orientada pela igreja local concreta que está diante de nós. Nestes anos de formação, minhas melhores experiências de pregação nem sempre coincidiram com aquelas em que tive mais anotações ou maior controle prévio, mas com aquelas em que a preparação foi suficiente para servir a situação real da comunidade, e não apenas o cenário idealizado nos meus apontamentos, ou para os ouvintes da igreja de meu pregador favorito ("Fulano pregaria assim"). Preparar-se bem é preparar-se para um duplo ouvir (a dupla hermenêutica de Wadislau em aconselhamento redentivo): ouvir a Palavra, ouvir as pessoas. Preparar o necessário para que a Palavra imutável e verdadeira encontre pessoas reais, em um tempo e lugar específicos.
