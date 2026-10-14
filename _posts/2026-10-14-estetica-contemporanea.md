@@ -31,7 +31,7 @@ A teoria estética deixa de ser marcada por buscar uma essência fixa (à maneir
 * Crítica à "miopia" estética: Baudelaire critica duramente a atitude dos frequentadores formais de museus e leitores tradicionais que passam apressadamente por obras e poetas considerados "menores" apenas para cultivar uma admiração passiva e dogmática pelos grandes cânones (como Ticiano ou Rafael).
 * Valorização da "beleza circunstancial": Em contraposição a essa miopia, Baudelaire destaca os verdadeiros amadores e críticos que reconhecem o valor legítimo da "pintura de costumes" e da beleza contingente presente no trabalho de cronistas visuais do cotidiano, como Constantin Guys.
 
-https://www.youtube.com/watch?v=Cm4vaTf6xiY
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cm4vaTf6xiY?si=tV8cRCnds4lpd5Gp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * O duplo prazer da representação dos costumes: A representação do circunstancial oferece um duplo prazer ao observador:
   1. Prazer artístico: Derivado da beleza intrínseca da forma e da composição.
@@ -59,9 +59,6 @@ https://www.youtube.com/watch?v=Cm4vaTf6xiY
 * Análise histórico-materialista: Em alinhamento com a determinação historial hegeliana, Benjamin analisa o fenômeno artístico não por sua essência imutável (quididade), mas a partir de sua articulação com as condições materiais e tecnológicas de cada época (fotografia, cinema).
 * A reprodução e geração algorítmica de imagens e textos no nosso momento presente reconfiguram nossa percepção sobre as criações humanas do passado. A frieza e a falta de atrito na produção automatizada de IA destacam, por contraste, a densidade emocional, o abalo trágico e a resistência existencial presentes no gesto do artista humano.
 * Transformação da função social da arte: A reprodutibilidade técnica liquida a fundação da arte no ritual (religioso ou contemplativo/místico), deslocando seu eixo para o valor de exposição e para o campo da política.
-
-Loop: https://www.youtube.com/shorts/aavfVe46J8E
-
 * O Conceito de aura e sua perda: A aura é definida como o "aqui e agora" (Hic et Nunc) da obra de arte — sua existência única, irrepetível e distante que fundamentava o ritual. A reprodução tecnológica aproxima massivamente o objeto do espectador e destrói a aura.
 
 Baudelaire, embora usando conceito diferente, descreve o mesmo fenômeno:
@@ -120,7 +117,7 @@ Baudelaire, embora usando conceito diferente, descreve o mesmo fenômeno:
 
 O filme de Sorrentino atua como síntese e consumação existencial das questões teóricas discutidas no seminário.
 
-https://www.youtube.com/watch?v=Ds7f62nkIYc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ds7f62nkIYc?si=JUpxXX-vYzxh7mI5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *  protagonista Jep Gambardella encarna o caminhante contemporâneo que perambula pela Roma hipermoderna, um cenário saturado de festas fúteis, arte reduzida a espetáculo especulativo e busca desesperada por distração. Jep vivencia na pele a dissolução da experiência provocada pela aceleração técnica e pela perda de sentido.
 * A virada existencial de Jep ocorre no encontro com a enigmática e silenciosa Irmã Maria (a "Santa"), que lhe dirige a pergunta fundamental seguida de sua própria declaração de vida:
