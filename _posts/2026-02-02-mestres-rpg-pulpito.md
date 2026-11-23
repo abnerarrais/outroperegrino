@@ -1,6 +1,7 @@
 ---
 layout: post
 title: De mestres de masmorras e pastores-mestres
+description: "O que The Lazy Dungeon Master ensina sobre a pregação cristã: preparação fiel às Escrituras orientada à igreja local concreta, e não a ouvintes idealizados."
 ---
 
 

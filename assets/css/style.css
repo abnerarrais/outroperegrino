@@ -310,12 +310,26 @@ button:focus-visible {
   border: 1px solid var(--rule);
 }
 
+.post-content iframe,
+.page-content iframe {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  margin: 1.5rem 0;
+  border: 1px solid var(--rule);
+}
+
 .post-content table,
 .page-content table {
+  display: block;
   width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   border-collapse: collapse;
   margin: 1.5rem 0;
-  font-size: 13.5px;
+  font-size: 13px;
 }
 
 .post-content th,
@@ -323,7 +337,8 @@ button:focus-visible {
 .page-content th,
 .page-content td {
   text-align: left;
-  padding: 0.45rem 0.6rem 0.45rem 0;
+  vertical-align: top;
+  padding: 0.45rem 0.75rem 0.45rem 0;
   border-bottom: 1px solid var(--rule);
 }
 
@@ -460,37 +475,6 @@ button:focus-visible {
 
 /* Arquivo */
 
-.archive-filters {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.9rem;
-  margin: -0.75rem 0 1.75rem;
-}
-
-.filter-btn {
-  appearance: none;
-  background: none;
-  border: 0;
-  padding: 0;
-  cursor: pointer;
-  font-family: var(--font-mono);
-  font-size: 11.5px;
-  color: var(--muted);
-  text-decoration: underline;
-  text-decoration-color: transparent;
-  text-underline-offset: 3px;
-}
-
-.filter-btn:hover,
-.filter-btn.is-active {
-  color: var(--text);
-  text-decoration-color: var(--muted);
-}
-
-.filter-btn.is-active {
-  font-weight: 500;
-}
-
 .archive-year + .archive-year {
   margin-top: 2rem;
 }
@@ -513,15 +497,10 @@ button:focus-visible {
 
 .archive-item {
   display: grid;
-  grid-template-columns: 4.5rem 1fr auto;
+  grid-template-columns: 4.5rem 1fr;
   align-items: baseline;
   gap: 0.75rem;
   padding: 0.42rem 0;
-}
-
-.archive-item[hidden],
-.archive-year[hidden] {
-  display: none;
 }
 
 .archive-date {
@@ -542,13 +521,6 @@ button:focus-visible {
   text-decoration: underline;
   text-decoration-color: var(--muted);
   text-underline-offset: 3px;
-}
-
-.archive-cat {
-  font-family: var(--font-mono);
-  font-size: 11.5px;
-  color: var(--muted);
-  white-space: nowrap;
 }
 
 /* 404 */
@@ -611,10 +583,6 @@ button:focus-visible {
   .archive-item {
     grid-template-columns: 4rem 1fr;
     gap: 0.2rem 0.65rem;
-  }
-
-  .archive-cat {
-    grid-column: 2;
   }
 
   .backlinks-item {

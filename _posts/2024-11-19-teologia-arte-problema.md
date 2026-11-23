@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Teologia (evangélica) e arte: nota para a formulação de um problema"
+description: "Mapeamento do problema da justificativa da arte na teologia evangélica — de Clark, Kilby, Rookmaaker, Schaeffer e Kuyper à leitura histórica de Gadamer."
 ---
 
 O problema se constitui como problema especialmente para a teologia evangélica, que parece se aproximar teoricamente do campo da arte sempre em caráter de justificativa.

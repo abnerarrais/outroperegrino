@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Guia das traduções de Heidegger (Gesamtausgabe) em língua portuguesa"
+description: "Guia em atualização das traduções para o português da Gesamtausgabe de Martin Heidegger, organizado pelas quatro séries, volumes, editoras e tradutores."
 ---
 
 As _Gesamtausgabe_ estão dividida entre quatro séries:

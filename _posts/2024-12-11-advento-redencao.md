@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "“Justiça e santidade todos os dias” – Advento e redenção no agora"
+description: "Meditação sobre o Benedictus de Zacarias: a salvação bíblica para além da autorrealização moderna, lida à luz de Crisóstomo, Beda e da tensão do Advento."
 ---
 
 A narrativa moderna nos encoraja a pensar a salvação como um momento de ruptura para a autorrealização: um antes e um depois, o corte cirúrgico que remove todo o mal de nós. Mas, como canta o _Benedictus_, a salvação bíblica é mais complexa — e desconfortável. Não é apenas a segurança da libertação, mas a tensão contínua de viver “em santidade e justiça”, um paradoxo que nos mantém alertas, sem repouso em nós mesmos. A salvação que Zacarias canta não termina no livramento. Ela nos captura, nos redireciona e nos posiciona “em sua presença [de Deus]” (v. 75) como uma oferta contínua.

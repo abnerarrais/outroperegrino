@@ -19,14 +19,21 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Outro Peregrino
+author:
+  name: Abner Arrais
+  email: abnerhbarrais@gmail.com
 email: abnerhbarrais@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "lang:"
   Achados de um peregrino na feira das vaidades.
 lang: pt-BR
 baseurl: "/outroperegrino" # the subpath of your site, e.g. /blog
 url: "https://abnerarrais.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: abnerarrais
 github_username:  abnerarrais
+
+# Verificação do Google Search Console (descomente e insira o código)
+# webmaster_verifications:
+#   google: COLE_AQUI_O_CODIGO_DO_SEARCH_CONSOLE
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
@@ -50,7 +57,5 @@ exclude:
   - gemfiles/
   - Gemfile
   - Gemfile.lock
-  - package-lock.json
-  - config/
   - node_modules/
   - vendor/

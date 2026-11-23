@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Obsessão, Ou o que sobrou para os encantos e terrores"
+description: "Sobre Obsessão, de Curry Barker: o feitiço comoditizado, o terror da era do prompt sob a técnica heideggeriana e a criação como teatro de glória em Calvino."
 ---
 
 Em _Obsessão_, de Curry Barker, há méritos. A composição das cenas é bonita e segura, e o elenco sustenta bem a proposta, sobretudo a atriz que interpreta Nikki. Enquanto o filme está construindo a sua premissa, até o momento em que o salgueiro é quebrado e o desejo se realiza, existe ali algum suspense para saber como tudo aquilo vai operar. Daí em diante, porém, tudo se torna previsível. O suspense desaparece, e o filme se movimenta sem que efetivamente se desenvolva para algum lugar, pois tudo o que importava já estava posto desde o início. Ainda assim, mesmo quando falha naquilo que promete, o filme explicita algo próprio de nosso tempo.

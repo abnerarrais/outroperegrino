@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fenomenologia paulina do engano"
+description: "Uma leitura de Gálatas 3.1-5 em diálogo com o fetichismo em Marx: como o engano opera como verdade óbvia e só se rompe pela retórica despertadora da Palavra."
 comments: false
 ---
 

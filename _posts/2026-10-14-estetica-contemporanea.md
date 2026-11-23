@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A descoberta do vínculo historial da arte na estética contemporânea (notas do seminário)"
+description: "Notas de seminário sobre a virada historial da estética contemporânea: de Baudelaire, Hegel e Benjamin a Heidegger, Jonathan A. Anderson e A Grande Beleza."
 ---
 
 _Notas da apresentação do seminário no grupo de pesquisa da ABC2 Artes, no ano em que estudamos a história da filosofia da arte e da estética, em 2026_

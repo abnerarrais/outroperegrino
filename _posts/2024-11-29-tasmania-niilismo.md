@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Do ausentar-se como forma de niilismo"
+description: "Notas sobre Tasmânia, de Paolo Giordano: a contra-flânerie global, a presença esvaziada pelas telas e o niilismo da fuga em um mundo pré-traumático."
 ---
 
 ![Capa de Tasmânia, livro de Paolo Giordano](/outroperegrino/assets/tasmaniapaolo.jpg)

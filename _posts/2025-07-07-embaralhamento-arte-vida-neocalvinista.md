@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rookmaaker e Baudelaire
+description: "Breve nota sobre Rookmaaker, Baudelaire e Jean Galard: a metáfora da arte como encanamento e o embaralhamento contemporâneo entre arte e vida espiritual."
 ---
 
 Rookmaaker, embora de maneira distinta da tradição que se inicia em Baudelaire e no dandismo, opera dentro de certa chave do embaralhamento arte-vida: a saber, da arte como enriquecedora espiritual da vida. "estamos buscando artistas que trabalhem dentro da sociedade e que, dessa forma, tenham sua participação em tornar a vida vivível, rica no sentido espiritual, profunda e estimulante" (Rookmaaker, 2010, p. 34). Pode-se assim, entender afirmações como a seguinte, que compara a arte a um encanamento

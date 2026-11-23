@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rute e Marília entre os campos da fuga e da redenção
+description: "Um contraste entre o Livro de Rute e Marília de Dirceu, de Tomás Antônio Gonzaga: o refúgio bucólico na ordem natural frente à providência no campo de Boaz."
 ---
 
 Rute e Marília de Dirceu apresentam dois modelos de como seres humanos lidam com adversidade e esperam por algum tipo restauração. A comparação é útil, afinal, Rute é um "romance idílico [...] um conto que descreve um aspecto simples e agradável da vida rural e doméstica", além de ser a "obra-prima de arte narrativa na Bíblia" (Ryken, 2023, p. 138), o que une esse pequeno livro do cânon veterotestamentário ao belo livro de TAG, um dos momentos mais fascinantes da consciência literária de nosso povo. O mais recente caminha pela trilha de uma harmonia secularizada com a natureza; o outro, pela confiança na providência divina. Ambos os livros evocam imagens de colheitas e de inícios renovados, mas seus pontos de partida e de chegada (_arche_ e _telos_) não poderiam ser mais contrastantes.
