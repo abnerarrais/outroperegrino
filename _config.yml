@@ -31,9 +31,9 @@ url: "https://abnerarrais.github.io" # the base hostname & protocol for your sit
 twitter_username: abnerarrais
 github_username:  abnerarrais
 
-# Verificação do Google Search Console (descomente e insira o código)
-# webmaster_verifications:
-#   google: COLE_AQUI_O_CODIGO_DO_SEARCH_CONSOLE
+# Verificação do Google Search Console
+webmaster_verifications:
+  google: NIxEf8Z79YlZaPZyw8T_gYxpM4ZROOmcRG-LTMBtffM
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
