@@ -73,59 +73,21 @@ Baudelaire, embora usando conceito diferente, descreve o mesmo fenômeno:
 
 2.1. Wilhelm Dilthey e Martin Heidegger
 
-* Wilhelm Dilthey e a estética da vivência (Erlebnis): Dilthey fundamenta as ciências do espírito (Geisteswissenschaften) opondo a fluidez da vida histórica aos modelos mecanicistas das ciências naturais. A arte é concebida como expressão e janela para as "visões de mundo" (Weltanschauungen) de uma época — matriz hermenêutica assimilada por críticos culturais como Rookmaaker e Schaeffer.
-* Martin Heidegger e a ruptura ontológica ("A origem da obra de arte"): Heidegger promove uma partida radical em relação a Dilthey. A arte não é um mero reflexo ou ilustração passiva de uma cultura existente, mas uma força instituidora (stiften) que funda e abre um mundo histórico. O Templo Grego, por exemplo, não decorava uma comunidade preexistente; ele articulava a totalidade existencial, sacramental e política daquele povo.
-
-
 2.2. O primado da técnica e os teóricos da imagem contemporânea
 
 2.2.1. O primado da técnica e a opacidade da imagem
 
-* Ernst Cassirer ("Forma e Técnica"): Cassirer diagnostica a submissão de todas as potências da cultura à eficácia instrumental da técnica.
-
-> "Quando o critério para o significado dos âmbitos particulares da cultura humana é obtido primeiramente a partir de sua real eficácia, quando o valor desses âmbitos é determinado segundo a medida de seu desempenho imediato, então quase não resta dúvida de que, com esse critério, a técnica detém o primeiro lugar na construção da nossa atual cultura. Não importa se condenamos ou louvamos, se enaltecemos ou amaldiçoamos esse primado da técnica: sua pura existência factual é inquestionável. Todas as energias das forças formadoras da nossa atual cultura se concentram, cada vez mais, nesse único ponto. Mesmo as mais resistentes forças contrárias à técnica – mesmo aquelas potências espirituais que, segundo seu conteúdo e sentido, estão mais distantes dela – parecem apenas poder realizar suas funções quando se unem à técnica e, justamente nessa união, imperceptivelmente se submetem a ela."
-
-* Martin Heidegger ("A questão da técnica"): Distinção entre a poiesis (o produzir poético que traz a verdade ao brilho do belo) e a technē moderna convertida em Gestell (Armação), que reduz todo o real a fundo de reserva/subsistente disponível (Bestand). Como a essência da técnica não é algo técnico, a libertação exige o cultivo do pensamento meditativo, resgatando a arte como o âmbito aparentado e libertador, pois "o questionar é a devoção do pensamento".
-* Byung-Chul Han ("A salvação do belo"): Tematiza o império do "liso e polido" (a estética digital do Like), que elimina a dor, a gravidade e o reverso. Han afirma que "ser belo é fundamentalmente estar velado", defendendo a salvação do belo enquanto resguardo da opacidade frente à devassidão informativa dos dados.
-
-> "Os dados têm qualquer coisa de pornográfico e de obsceno. Não têm intimidade, nem reverso, nem fundo duplo. Nisso distinguem-se da linguagem, que não permite uma nitidez total. Os dados e as informações entregam-se a uma visibilidade total e tornam tudo visível."
-
 2.2.2. Do clichê ao simulacro
-
-* Gilles Deleuze ("A civilização do clichê"): O diagnóstico contemporâneo indica que não vivemos em uma "civilização da imagem", mas em uma "civilização do clichê" — onde imagens saturadas ocultam o real para atender a interesses de poder. O desafio da arte é extrair dos clichês uma "imagem justa".
-* Jean Baudrillard (A tela total e o simulacro): Na sociedade do hiper-real, a imagem hegemônica é o simulacro. Ao contrário do signo tradicional, o simulacro nada esconde, carecendo de profundidade ou enigma. É a transparência obscena e a visibilidade exaustiva que gera uma deflação massiva de sentido.
-* Andy Warhol vs. Jeff Koons: Warhol faz emergir o vazio, a morte e o abalo trágico no próprio coração do simulacro de consumo (serigrafias de Crash/Acidentes, Cadeira Elétrica, Marilyn); Koons ilusta o triunfo pós-moderno da superfície polida (Han), sem atrito, celebrando o kitsch e o consumo sem resistência.
 
 2.2.3. A imagem-enigma e a resposta poética/visual
 
-* Georges Didi-Huberman (A imagem-enigma): Defesa da imagem-enigma como imagem de exceção e resistência contra a tela total. Ela é aquela que preserva o mistério, guarda a sombra, recusa a oferta imediata do dado e nos devolve o olhar.
-* Evgen Bavcar (O "Tirésias" pós-moderno): O fotógrafo cego esloveno torna-se metáfora da necessidade de o artista contemporâneo passar por uma cegueira voluntária — descer à noite mais profunda — para purificar a retina saturada de clichês e permitir ao olhar voltar a respirar.
-* Roland Barthes (Studium vs. Punctum): O studium refere-se ao campo dócil, codificado e informativo da imagem (to like); o punctum é a ferida, o detalhe imprevisto que golpeia o espectador no silêncio e rasga o tecido das mídias.
-* Jean-Luc Godard e William Kentridge: Godard fratura clichês midiáticos utilizando o cinema autorreflexivo e distorções em 3D/digital (Adeus à Linguagem); Kentridge recorre a poéticas low-tech de animações artesanais em carvão (Dor e Empatia, Procissão de Sombras), utilizando o princípio da lanterna mágica e preservando as marcas do apagamento e da poeira como resistência política.
-
 2.2.4. Espaços de convivência e matrizes participativas
-
-* Michel Foucault e Nicolas Bourriaud (Da Utopia à Heterotopia): Substituição das utopias abstratas (o "não-lugar" futuro) pelas heterotopias (outros lugares concretos abertos no presente) e pela arte relacional.
-* Hélio Oiticica e Lygia Clark: Matrizes vivenciais brasileiras da arte participativa (Penetráveis, Ninhos, A casa é o corpo), deslocando a obra da contemplação estática de museu para a vivência corpórea, tátil e multissensorial.
 
 2.3. Jonathan A. Anderson: o silêncio na era da comunicação de massa
 
-* Diante da hipermediação e do ruído da comunicação de massa, a arte contemporânea explora a retenção representacional e o silêncio através de obras: a radical ausência de som em 4'33" de John Cage, a abstração absoluta do "ícone nu" no Quadrado Negro de Kazimir Malevich e a retenção material nas White Paintings de Robert Rauschenberg.
-* Ancoragem na teologia apofática: Anderson demonstra que a poética da escassez estética possui uma relação de continuidade com a tradição apofática (o conhecimento e a comunicação do divino por meio da negação, do silêncio e do não-dizer).
-* Refutação do niilismo (_pace_ Rookmaaker): Anderson refuta a leitura de críticos que interpretam obras como 4'33" de Cage como gestos niilistas de alienação ou "morte da arte". O silêncio estético é reelaborado como uma disciplina ética e ontológica de atenção, atitude contemplativa do "considerai os lírios do campo", que suspende o ruído funcional para receber o mundo em sua doação gratuita.
-
 2.4. Paolo Sorrentino: "A grande beleza"
 
-O filme de Sorrentino atua como síntese e consumação existencial das questões teóricas discutidas no seminário.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ds7f62nkIYc?si=JUpxXX-vYzxh7mI5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-*  protagonista Jep Gambardella encarna o caminhante contemporâneo que perambula pela Roma hipermoderna, um cenário saturado de festas fúteis, arte reduzida a espetáculo especulativo e busca desesperada por distração. Jep vivencia na pele a dissolução da experiência provocada pela aceleração técnica e pela perda de sentido.
-* A virada existencial de Jep ocorre no encontro com a enigmática e silenciosa Irmã Maria (a "Santa"), que lhe dirige a pergunta fundamental seguida de sua própria declaração de vida:
-
-> "Sabe por que só como raízes? Porque as raízes são importantes."
-
-* A redescoberta do vínculo historial: Sorrentino demonstra que a "grande beleza" não se encontra na exibição ruidosa e espetacular das superfícies, mas na capacidade poética da arte de resguardar as raízes da memória e recolher os "insignificantes, inconstantes lampejos de beleza" mantidos sob a tagarelice/inundação de imagens do mundo.
 
 Conclusão
 
