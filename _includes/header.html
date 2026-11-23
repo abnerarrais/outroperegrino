@@ -1,0 +1,8 @@
+<header class="site-header">
+  <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+  <nav class="site-nav" aria-label="Navegação principal">
+    <a href="{{ '/arquivo/' | relative_url }}"{% if page.url == '/arquivo/' %} aria-current="page"{% endif %}>Arquivo</a>
+    <a href="{{ '/sobre/' | relative_url }}"{% if page.url == '/sobre/' %} aria-current="page"{% endif %}>Sobre</a>
+    <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+  </nav>
+</header>

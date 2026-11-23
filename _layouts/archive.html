@@ -1,0 +1,92 @@
+---
+layout: default
+---
+
+{%- assign count_ensaio = 0 -%}
+{%- assign count_cronica = 0 -%}
+{%- assign count_nota = 0 -%}
+{%- for post in site.posts -%}
+  {%- assign raw_cat = post.category | default: post.categories.first | downcase | strip -%}
+  {%- if raw_cat == "ensaio" -%}
+    {%- assign count_ensaio = count_ensaio | plus: 1 -%}
+  {%- elsif raw_cat == "cronica" or raw_cat == "crônica" -%}
+    {%- assign count_cronica = count_cronica | plus: 1 -%}
+  {%- elsif raw_cat == "nota" -%}
+    {%- assign count_nota = count_nota | plus: 1 -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign has_categories = false -%}
+{%- if count_ensaio > 0 or count_cronica > 0 or count_nota > 0 -%}
+  {%- assign has_categories = true -%}
+{%- endif -%}
+
+<section class="archive">
+  <header class="page-header archive-header">
+    <h1 class="page-title">{{ page.title | default: "Arquivo" | escape }}</h1>
+    <p class="post-meta">{{ site.posts.size }} {% if site.posts.size == 1 %}texto{% else %}textos{% endif %}</p>
+  </header>
+
+  {%- if has_categories -%}
+    <nav class="archive-filters" aria-label="Filtrar por categoria">
+      <button type="button" class="filter-btn is-active" data-filter="all" aria-pressed="true">todos ({{ site.posts.size }})</button>
+      {%- if count_ensaio > 0 -%}
+        <button type="button" class="filter-btn" data-filter="ensaio" aria-pressed="false">ensaio ({{ count_ensaio }})</button>
+      {%- endif -%}
+      {%- if count_cronica > 0 -%}
+        <button type="button" class="filter-btn" data-filter="cronica" aria-pressed="false">crônica ({{ count_cronica }})</button>
+      {%- endif -%}
+      {%- if count_nota > 0 -%}
+        <button type="button" class="filter-btn" data-filter="nota" aria-pressed="false">nota ({{ count_nota }})</button>
+      {%- endif -%}
+    </nav>
+  {%- endif -%}
+
+  {%- assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" -%}
+  {%- for year in posts_by_year -%}
+    <section class="archive-year" data-year-group>
+      <h2 class="archive-year-heading">{{ year.name }}</h2>
+      <ul class="archive-list">
+        {%- for post in year.items -%}
+          {%- assign raw_cat = post.category | default: post.categories.first | downcase | strip -%}
+          {%- if raw_cat == "crônica" -%}{%- assign cat_slug = "cronica" -%}{%- else -%}{%- assign cat_slug = raw_cat -%}{%- endif -%}
+          <li class="archive-item" data-category="{{ cat_slug }}">
+            <time class="archive-date" datetime="{{ post.date | date: '%Y-%m-%d' }}">{% include date-pt.html date=post.date short=true %}</time>
+            <a class="archive-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            {%- if raw_cat != "" -%}
+              <span class="archive-cat">{% include category-label.html category=raw_cat %}</span>
+            {%- endif -%}
+          </li>
+        {%- endfor -%}
+      </ul>
+    </section>
+  {%- endfor -%}
+</section>
+
+{%- if has_categories -%}
+<script>
+(function () {
+  var buttons = document.querySelectorAll('.archive-filters .filter-btn');
+  var items = document.querySelectorAll('.archive-item');
+  var groups = document.querySelectorAll('[data-year-group]');
+  if (!buttons.length) return;
+  buttons.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var filter = btn.getAttribute('data-filter');
+      buttons.forEach(function (b) {
+        var active = b === btn;
+        b.classList.toggle('is-active', active);
+        b.setAttribute('aria-pressed', active ? 'true' : 'false');
+      });
+      items.forEach(function (item) {
+        var match = filter === 'all' || item.getAttribute('data-category') === filter;
+        item.hidden = !match;
+      });
+      groups.forEach(function (group) {
+        var visible = group.querySelectorAll('.archive-item:not([hidden])').length > 0;
+        group.hidden = !visible;
+      });
+    });
+  });
+})();
+</script>
+{%- endif -%}

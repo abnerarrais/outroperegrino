@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<section class="post-feed" aria-label="Textos recentes">
+  {%- for post in site.posts limit: 10 -%}
+    <article class="post-entry">
+      <header class="post-entry-header">
+        <h2 class="post-title">
+          <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+        {% include post-meta.html post=post %}
+      </header>
+      {%- assign snippet = post.content | strip_html | normalize_whitespace | truncatewords: 48 -%}
+      {%- if snippet != "" -%}
+        <p class="post-excerpt">{{ snippet }}</p>
+      {%- endif -%}
+    </article>
+  {%- endfor -%}
+</section>
+
+{%- if site.posts.size > 10 -%}
+  <nav class="feed-footer" aria-label="Arquivo completo">
+    <a href="{{ '/arquivo/' | relative_url }}">Ver arquivo completo ({{ site.posts.size }} textos) &rarr;</a>
+  </nav>
+{%- endif -%}

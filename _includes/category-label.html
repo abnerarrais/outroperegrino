@@ -1,0 +1,7 @@
+{%- assign cat_key = include.category | downcase | strip -%}
+{%- case cat_key -%}
+  {%- when "ensaio" -%}ensaio
+  {%- when "cronica" or "crônica" -%}crônica
+  {%- when "nota" -%}nota
+  {%- else -%}{{ cat_key }}
+{%- endcase -%}

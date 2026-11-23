@@ -1,0 +1,13 @@
+{%- assign item = include.post -%}
+{%- assign item_cat = item.category | default: item.categories.first -%}
+<p class="post-meta">
+  <time datetime="{{ item.date | date: '%Y-%m-%d' }}">{% include date-pt.html date=item.date %}</time>
+  {%- if item.updated -%}
+    <span class="meta-sep" aria-hidden="true">&middot;</span>
+    <span>atualizado <time datetime="{{ item.updated | date: '%Y-%m-%d' }}">{% include date-pt.html date=item.updated %}</time></span>
+  {%- endif -%}
+  {%- if item_cat and item_cat != "" -%}
+    <span class="meta-sep" aria-hidden="true">&middot;</span>
+    <span class="post-category">{% include category-label.html category=item_cat %}</span>
+  {%- endif -%}
+</p>
